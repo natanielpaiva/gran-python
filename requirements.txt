@@ -1,0 +1,4 @@
+SQLAlchemy
+nltk
+textblob
+pandas

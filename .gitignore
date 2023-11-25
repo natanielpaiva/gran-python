@@ -1,0 +1,22 @@
+# Bytecode Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ambientes Virtuais
+venv/
+env/
+
+# Banco de Dados
+twitter.db
+
+# Arquivos de configuração com informações sensíveis
+*.ini
+
+# Arquivos de Log
+*.log
+
+# Outros arquivos e diretórios a ignorar
+.DS_Store
+Thumbs.db
