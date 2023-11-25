@@ -8,6 +8,17 @@ Este projeto é um sistema CRUD que permite criar, ler, atualizar e deletar dado
 - SQLite
 - Bibliotecas Python: SQLAlchemy (para ORM), outras bibliotecas para análise de sentimentos (a especificar)
 
+## Tabela de dados
+![Tabela do Twitter](tabela.png)
+
+## Dados inseridos na base
+| id | post                                    | category |
+|----|-----------------------------------------|----------|
+| 1  | I love Python! Is the best programming language! | Positive |
+| 2  | I Dont like others programming languages        | Negative |
+| 3  | Python is really                        | Neutral  |
+
+
 ## Instalação e Execução
 Para instalar e executar o projeto, siga estes passos:
 
