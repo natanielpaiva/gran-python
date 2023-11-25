@@ -13,7 +13,7 @@ Para instalar e executar o projeto, siga estes passos:
 
 ```bash
 # Clone o repositório
-git clone [URL do repositório]
+git clone https://github.com/natanielpaiva/gran-python.git
 
 # Instale as dependências
 pip install -r requirements.txt # (criar este arquivo se não existir)
