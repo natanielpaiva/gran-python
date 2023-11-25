@@ -6,7 +6,7 @@ Este projeto é um sistema CRUD que permite criar, ler, atualizar e deletar dado
 ## Tecnologias Utilizadas
 - Python
 - SQLite
-- Bibliotecas Python: SQLAlchemy (para ORM), outras bibliotecas para análise de sentimentos (a especificar)
+- nltk
 
 ## Tabela de dados
 ![Tabela do Twitter](tabela.png)
@@ -27,7 +27,7 @@ Para instalar e executar o projeto, siga estes passos:
 git clone https://github.com/natanielpaiva/gran-python.git
 
 # Instale as dependências
-pip install -r requirements.txt # (criar este arquivo se não existir)
+pip install -r requirements.txt 
 
 # Execute o arquivo principal
 python main.py
