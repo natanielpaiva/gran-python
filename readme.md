@@ -16,7 +16,7 @@ Este projeto é um sistema CRUD que permite criar, ler, atualizar e deletar dado
 |----|-----------------------------------------|----------|
 | 1  | I love Python! Is the best programming language! | Positive |
 | 2  | I Dont like others programming languages        | Negative |
-| 3  | Python is really                        | Neutral  |
+| 3  | Python is really...                        | Neutral  |
 
 
 ## Instalação e Execução
